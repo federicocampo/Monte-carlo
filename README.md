@@ -1,2 +1,2 @@
 # Monte-carlo
-Alcuni esercizi monte carlo
+Alcuni esercizi monte carlo, sicuramente sbagliati, e non commentati
