@@ -1,3 +1,3 @@
 # Monte-carlo
-Alcuni esercizi monte carlo, sicuramente sbagliati, e non commentati.
-Repository non aggiornata.
+Sone Monte Carlo exercises, uncommented.
+Repository not up to date.
